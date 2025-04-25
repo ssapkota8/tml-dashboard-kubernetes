@@ -36,5 +36,5 @@ I customized and deployed a real-time **Transactional Machine Learning (TML)** d
 ---
 
 **View Full Project Report & Screenshots Above**  
-🔗 [LinkedIn Post](your-link) | 🐙 [DockerHub Container](your-docker-link)
+🔗 [LinkedIn Post](https://www.linkedin.com/posts/sudarshan683_cloudcomputing-devops-docker-activity-7321383009499136001-Vj1S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFBO_9gBaqMkpAetkMKzanTRXJy5REXOvNQ) | 🐙 https://hub.docker.com/repositories/ssapkota8
 
