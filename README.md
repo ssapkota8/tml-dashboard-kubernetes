@@ -2,7 +2,7 @@
 Real-time ML Dashboard with Docker &amp; Kubernetes | CSP450 Project
 # CSP450 Project 3 – Real-Time ML Dashboard with Docker & Kubernetes
 
-This project was completed as part of the **Cloud Systems Project (CSP450)** course at **Seneca College**.
+This project was completed as part of the **Computer Systems Project (CSP450)** course at **Seneca College**.
 
 ## 📌 Overview
 
